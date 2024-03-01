@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c1514fab-e3b7-41ce-8e86-bf833ff439be"
+      }
+    },
+    "owner": "robertod"
   }
 }
